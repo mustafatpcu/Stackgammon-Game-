@@ -1,6 +1,6 @@
 ## **Stackgammon Game**
 
-Stackgammon Game is an assignment Advanced Programming Course that focused on OOP and Data Structures .
+Stackgammon Game is an assignment given in Advanced Programming Course that focused on OOP and Data Structures .
 
 **Language:** C++
 
