@@ -15,3 +15,40 @@ Stackgammon Game is an assignment given in Advanced Programming Course that focu
 - Moreover, when a move is not possible, one piece is added on a new slot and the number of pieces is increased. The strategy of the game is to end up with smallest number of pieces at the end of the game. The player with smallest number of pieces wins the game (of course tie is also possible). You may check out the sample runs to better understand the game logic.
 
 
+**Sample Run:**
+
+```cpp
+[*] Welcome to the Stackgammon Game!
+[*] Enter a board configuration:
+1x/2x/3x/3o/2o/1o
+xo
+xxoo
+xxxooo
+^^^^^^
+[*] Enter a round limit:
+1
+[*] Enter a random number generator seed:
+1
+[*] Round 0
+[x] X's turn:
+Throwing die...
+Die is 2.
+[x] Make your move. State the index (starts from 0) of your piece you want to move, and right (1) or left (0):
+0 1
+o
+xoo
+xooo
+^^^^^
+[o] O's turn:
+Throwing die...
+Die is 4.
+[o] Make your move. State the index (starts from 0) of your piece you want to move, and right (1) or left (0):
+4 0
+o
+xoo
+oxoo
+^^^^^
+[*] Game over!
+```
+
+
